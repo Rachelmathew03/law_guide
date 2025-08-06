@@ -1,0 +1,547 @@
+[
+    {
+        "Query": "Where should I complain",
+        "Response": "You can file a complaint at the nearest Cyber Crime Police Station or online at https://cybercrime.gov.in."
+    },
+    {
+        "Query": "What should I do if I am exposed to a cyber case?",
+        "Response": "Immediately report the incident to Cyber Crime Police. Secure all evidence such as emails, messages, or screenshots."
+    },
+    {
+        "Query": "How can I protect myself from cybercrime?",
+        "Response": "Use strong passwords, enable two-factor authentication, keep your software and operating system"
+    },
+    {
+        "Query": "What is the role of the Cyber Crime Police Station?",
+        "Response": "The Cyber Crime Police Station is responsible for investigating and preventing cybercrimes"
+    },
+    {
+        "Query": "How can I report a cybercrime?",
+        "Response": "You can report a cybercrime to the nearest Cyber Crime Police Station or online"
+    },
+    {
+        "Query": "What should I do if someone is blackmailing me online?",
+        "Response": " Do not delete messages or evidence. Take screenshots and report the matter to cybercrime.gov.in or your local cybercrime police. Blackmailing online is punishable under Section 384 IPC and Section 66E IT Act."
+    },
+    {
+        "Query": "What can parents do if a child is being harassed online?",
+        "Response": "Immediately report it to cybercrime.gov.in under “Report Child Related Crime”. Educate children about safe internet practices and monitor suspicious behavior."
+    },
+    {
+        "Query": "What are my rights if I get arrested?",
+        "Response": "Your rights depend on your country, but typically, you have the right to remain silent, the right to an attorney, and protection against unlawful searches. Always consult a local lawyer for specific guidance."
+    },
+    {
+        "Query": "What is the process of filing a lawsuit?",
+        "Response": "The process varies by jurisdiction, but typically includes filing a complaint, serving the defendant, gathering evidence, and attending court proceedings."
+    },
+    {
+        "Query": "What is cyber terrorism, and how is it legally addressed?",
+        "Response": "Cyber terrorism involves using digital means to disrupt national security or critical infrastructure. Laws against cyber terrorism impose strict penalties, including imprisonment."
+    },
+    {
+        "Query": "What are the legal consequences of spreading misinformation online?",
+        "Response": "Spreading false information can lead to legal consequences, including fines and criminal charges, especially if it causes harm or incites violence."
+    },
+    {
+        "Query": " Can companies legally track my online activity?",
+        "Response": " Companies can track online activity within legal limits, but they must comply with privacy laws and obtain user consent where required."
+    },
+    {
+        "Query": "What are the legal implications of using pirated software?",
+        "Response": "Using pirated software is illegal and can result in fines, lawsuits, and security risks such as malware infections."
+    },
+    {
+        "Query": "How does cyberbullying affect individuals?",
+        "Response": "Victims of cyberbullying may experience anxiety, depression, emotional distress, and reputational damage. It can also lead to social withdrawal and, in severe cases, self-harm."
+    },
+    {
+        "Query": "What evidence should I collect before reporting cyberbullying?",
+        "Response": "Screenshots of harmful messages, timestamps, email records, and any online posts or comments that prove harassment will help authorities take action."
+    },
+    {
+        "Query": "Is sharing offensive posts considered cyberbullying?",
+        "Response": "Even sharing or spreading abusive content can contribute to cyberbullying and may have legal consequences, depending on the jurisdiction and the nature of the content."
+    },
+    {
+        "Query": "",
+        "Response": ""
+    },
+    {
+        "Query": "What are the legal consequences of hacking someone's computer?",
+        "Response": "Hacking is a serious crime that can result in imprisonment, fines, and a permanent criminal record. It's also a civil offense, allowing victims to sue for damages."
+    },
+    {
+        "Query": "What are the legal consequences of online harassment?",
+        "Response": "Online harassment can lead to civil and criminal charges, including fines, imprisonment , and restraining orders, depending on the severity and jurisdiction."
+    },
+    {
+        "Query": "What law protects me if someone sends me threatening messages on WhatsApp?",
+        "Response": "You are protected under Section 503 of the IPC (criminal intimidation) and Section 66A of the IT Act. Now, such offenses fall under IPC for legal action."
+    },
+    {
+        "Query": "to report a cybercrime?",
+        "Response": "Visit https://cybercrime.gov.in or contact your nearest police station."
+    },
+    {
+        "Query": "Where can I get legal advice?",
+        "Response": "Check our legal connectivity page to get legal advice from experts or lawyers."
+    },
+    {
+        "Query": "cyber stalking",
+        "Response": "Cyber-Stalking: It means to create a physical threat that instills fear using computer technology such as the internet, email, phones, text messages, webcam, websites, or videos."
+    },
+        {
+            "Query": "dissemination of obscene material",
+            "Response": "Dissemination of Obscene Material: This includes indecent exposure, pornography (especially child pornography), and hosting websites containing prohibited materials that may corrupt the minds of adolescents."
+        },
+        {
+            "Query": "defamation",
+            "Response": "Defamation: It is the act of harming a person's dignity by hacking their email account and sending vulgar messages to others."
+        },
+        {
+            "Query": "hacking",
+            "Response": "Hacking: It refers to unauthorized access or control over a computer system, often leading to data destruction and security breaches."
+        },
+        {
+            "Query": "cracking",
+            "Response": "Cracking: A serious cybercrime where a hacker gains unauthorized access to a computer system and tampers with confidential data."
+        },
+        {
+            "Query": "email spoofing",
+            "Response": "E-Mail Spoofing: A fraudulent email technique where the sender misrepresents the email’s origin to deceive the recipient."
+        },
+        {
+            "Query": "sms spoofing",
+            "Response": "SMS Spoofing: A cybercrime where a wrongdoer sends SMS messages using a victim's mobile number to deceive recipients."
+        },
+        {
+            "Query": "carding",
+            "Response": "Carding: The unauthorized use of false ATM, debit, or credit cards to withdraw money from a victim's bank account."
+        },
+        {
+            "Query": "cheating and fraud",
+            "Response": "Cheating & Fraud: Involves cybercriminals stealing passwords and data with malicious intent, leading to fraud."
+        },
+        {
+            "Query": "pornography",
+            "Response": "Child Pornography: The use of computer networks to create, distribute, or access materials that sexually exploit underage children."
+        },
+        {
+            "Query": "assault by threat",
+            "Response": "Assault by Threat: Threatening a person or their family through emails, videos, or phone calls using a computer network."
+        },
+        {
+            "Query": "intellectual property crimes",
+            "Response": "Intellectual Property Crimes: Unlawful acts that deprive an owner of their rights, such as software piracy, copyright infringement, and theft of computer source code."
+        },
+        {
+            "Query": "cyber squatting",
+            "Response": "Cyber Squatting: A dispute over domain names where one party registers a name similar to an established brand (e.g., yahoo.com vs. yaahoo.com)."
+        },
+        {
+            "Query": "cyber vandalism",
+            "Response": "Cyber Vandalism: The deliberate destruction or damage of data or computer systems, including physical damage to hardware."
+        },
+        {
+            "Query": "hacking computer system",
+            "Response": "Hacking Computer System: Unauthorized access to a system to steal or damage data, often targeting organizations."
+        },
+        {
+            "Query": "transmitting virus",
+            "Response": "Transmitting Virus: The creation and spread of viruses or worms that alter or delete computer data."
+        },
+        {
+            "Query": "cyber trespass",
+            "Response": "Cyber Trespass: Unauthorized access to another person's computer without causing damage but invading their privacy."
+        },
+        {
+            "Query": "internet time theft",
+            "Response": "Internet Time Theft: Unauthorized use of someone else's internet hours by hacking or illegal access."
+        },
+        {
+            "Query": "cyber terrorism",
+            "Response": "Cyber Terrorism: Cyberattacks intended to threaten national security, such as denial-of-service attacks, hate websites, or hacking government networks."
+        },
+        {
+            "Query": "cyber warfare",
+            "Response": "Cyber Warfare: Politically motivated hacking to damage or spy on an enemy state’s critical infrastructure."
+        },
+        {
+            "Query": "distribution of pirated software",
+            "Response": "Distribution of Pirated Software: The illegal copying and distribution of software, often leading to financial and data losses."
+        },
+        {
+            "Query": "possession of unauthorized information",
+            "Response": "Possession of Unauthorized Information: Illegally obtaining classified information for political, religious, or ideological purposes."
+        },
+        
+            {
+                "Query": "Who is an addressee?",
+                "Response": "An addressee is a person who is intended by the originator to receive the electronic record but does not include any intermediary."
+            },
+            {
+                "Query": "What is an adjudicating officer?",
+                "Response": "An adjudicating officer is an officer appointed under Section 46(1) of the IT Act."
+            },
+            {
+                "Query": "What is affixing electronic signature?",
+                "Response": "Affixing electronic signature means adopting any methodology or procedure by a person for the purpose of authenticating an electronic record by means of a digital signature."
+            },
+            {
+                "Query": "What is an Appellate Tribunal?",
+                "Response": "An Appellate Tribunal refers to the tribunal mentioned in Section 48(1) of the IT Act."
+            },
+            {
+                "Query": "What is an appropriate Government?",
+                "Response": "An appropriate Government is the State Government for matters under List II and III of the Seventh Schedule, and the Central Government in other cases."
+            },
+            {
+                "Query": "What is an asymmetric crypto system?",
+                "Response": "An asymmetric crypto system is a secure key pair system consisting of a private key for creating a digital signature and a public key to verify it."
+            },
+            {
+                "Query": "Who is a Certifying Authority?",
+                "Response": "A Certifying Authority is a person granted a license to issue an electronic signature certificate under Section 24 of the IT Act."
+            },
+            {
+                "Query": "What is a certification practice statement?",
+                "Response": "A certification practice statement is a statement issued by a Certifying Authority specifying its practices for issuing electronic signature certificates."
+            },
+            {
+                "Query": "What is a communication device?",
+                "Response": "A communication device includes cell phones, personal digital assistants, or any other device used to send, transmit, or communicate text, video, audio, or images."
+            },
+            {
+                "Query": "What is a computer?",
+                "Response": "A computer is an electronic, magnetic, optical, or high-speed data processing device performing logical, arithmetic, and memory functions, including input, output, storage, software, and network components."
+            },
+            {
+                "Query": "What is a computer network?",
+                "Response": "A computer network is the interconnection of one or more computers or communication devices using satellite, microwave, wire, wireless, or other media."
+            },
+            {
+                "Query": "What is a computer resource?",
+                "Response": "A computer resource includes a computer, computer system, computer network, data, database, or software."
+            },
+            {
+                "Query": "What is a computer system?",
+                "Response": "A computer system is a collection of devices, including input and output devices, capable of processing data, performing logic, arithmetic, storage, retrieval, and communication functions."
+            },
+            {
+                "Query": "Who is the Controller?",
+                "Response": "The Controller is the Controller of Certifying Authorities appointed under Section 17(1) of the IT Act."
+            },
+            {
+                "Query": "What is a cyber cafe?",
+                "Response": "A cyber cafe is any facility where internet access is provided to the public in the ordinary course of business."
+            },
+            {
+                "Query": "What is cyber security?",
+                "Response": "Cyber security refers to protecting information, devices, computers, networks, and stored data from unauthorized access, use, modification, or destruction."
+            },
+            {
+                "Query": "What is data?",
+                "Response": "Data refers to a representation of information, facts, concepts, or instructions intended for processing in a computer system, including computer printouts, storage media, and internally stored memory."
+            },
+            {
+                "Query": "What is a digital signature?",
+                "Response": "A digital signature is the authentication of an electronic record by a subscriber using an electronic method as per Section 3 of the IT Act."
+            },
+            {
+                "Query": "What is a Digital Signature Certificate?",
+                "Response": "A Digital Signature Certificate is a certificate issued under Section 35(4) of the IT Act to authenticate electronic records."
+            },
+            {
+                "Query": "What is electronic form?",
+                "Response": "Electronic form refers to information generated, sent, received, or stored in magnetic, optical, or other electronic media."
+            },
+            {
+                "Query": "What is the Electronic Gazette?",
+                "Response": "The Electronic Gazette is the Official Gazette published in an electronic format."
+            },
+            {
+                "Query": "What is an electronic record?",
+                "Response": "An electronic record includes data, images, sounds, or messages stored, received, or sent in an electronic format, microfilm, or computer-generated microfiche."
+            },
+            {
+                "Query": "What is an electronic signature?",
+                "Response": "An electronic signature is the authentication of an electronic record using the electronic technique specified in the Second Schedule of the IT Act and includes a digital signature."
+            },
+            {
+                "Query": "What is an Electronic Signature Certificate?",
+                "Response": "An Electronic Signature Certificate is a certificate issued under Section 35 of the IT Act, including a Digital Signature Certificate."
+            },
+            {
+                "Query": "What is the function of a computer?",
+                "Response": "The function of a computer includes logic, control, arithmetic processing, deletion, storage, retrieval, and communication."
+            },
+            {
+                "Query": "What is the Indian Computer Emergency Response Team?",
+                "Response": "The Indian Computer Emergency Response Team is an agency established under Section 70B(1) of the IT Act."
+            },
+            {
+                "Query": "What is information?",
+                "Response": "Information includes data, messages, text, images, sound, voice, codes, programs, software, databases, and microfilms."
+            },
+            {
+                "Query": "What is an intermediary?",
+                "Response": "An intermediary is a person who receives, stores, or transmits electronic records on behalf of another, including telecom providers, ISPs, web-hosting providers, search engines, and online marketplaces."
+            },
+            {
+                "Query": "What is a key pair?",
+                "Response": "A key pair in an asymmetric crypto system consists of a mathematically related private key for creating a digital signature and a public key for verifying it."
+            },
+            {
+                "Query": "What is law?",
+                "Response": "Law includes any Act of Parliament or State Legislature, Ordinances, Presidential Regulations, President's Acts, rules, regulations, and by-laws."
+            },
+            {
+                "Query": "What is a license?",
+                "Response": "A license is a certification granted to a Certifying Authority under Section 24 of the IT Act."
+            },
+            {
+                "Query": "Who is an originator?",
+                "Response": "An originator is a person who sends, generates, stores, or transmits an electronic message, excluding intermediaries."
+            },
+            {
+                "Query": "What is a private key?",
+                "Response": "A private key is a key used to create a digital signature in an asymmetric crypto system."
+            },
+            {
+                "Query": "What is a public key?",
+                "Response": "A public key is a key used to verify a digital signature and is listed in the Digital Signature Certificate."
+            },
+            {
+                "Query": "What is a secure system?",
+                "Response": "A secure system consists of hardware, software, and procedures that are secure from unauthorized access, reliable, and suited for their intended functions."
+            },
+            {
+                "Query": "What is a security procedure?",
+                "Response": "A security procedure is a procedure prescribed under Section 16 of the IT Act by the Central Government."
+            },
+        {
+            "Query": "What is a subscriber?",
+            "Response": "A subscriber is a person in whose name an electronic signature certificate is issued."
+        },
+                 
+            
+        { 
+            "Query": "What is cybercrime?", 
+            "Response": "Cybercrime refers to illegal activities carried out using computers or the internet. It includes hacking, identity theft, online fraud, cyberstalking, and other digital offenses." 
+        }, 
+        { 
+            "Query": "How can I report a cybercrime in India?",
+            "Response": "You can report cybercrime online at the National Cyber Crime Reporting Portal ([www.cybercrime.gov.in](http://www.cybercrime.gov.in)) or visit the nearest cybercrime police station."
+        },
+        {
+            "Query": "What should I do if I am a victim of online fraud?",
+            "Response": "Immediately contact your bank to freeze transactions, report the fraud to cybercrime authorities, and file a complaint at [www.cybercrime.gov.in](http://www.cybercrime.gov.in)." 
+        }, 
+        { 
+            "Query": "Is online harassment a punishable offense?", 
+            "Response": "Online harassment, including cyberstalking and online abuse, is punishable under the IT Act 2000 and IPC sections related to harassment." 
+        },
+        { 
+            "Query": "What is phishing?", 
+            "Response": "Phishing is a cybercrime where attackers trick users into providing sensitive information, such as passwords or credit card details, through fake emails or websites." },
+        {
+            "Query": "Can I be arrested for sharing false information online?", 
+            "Response": "Spreading false or misleading information online can be punishable under various laws, including Section 66D of the IT Act and IPC provisions for defamation and public mischief." },
+        { 
+            "Query": "my social media account is hacked?", 
+            "Response": "Change your password immediately, enable two-factor authentication, report the hack to the platform, and, if necessary, file a complaint with cybercrime authorities." }, 
+        { 
+            "Query": "What is identity theft in cybercrime?",
+            "Response": "Identity theft occurs when someone unlawfully uses your personal information, such as Aadhaar details or bank credentials, to commit fraud or impersonate you." },
+        { 
+            "Query": "Are cybercrimes bailable offenses?",
+            "Response": "Some cybercrimes are bailable, while others are not. Offenses with imprisonment of up to three years are generally bailable, while more serious crimes are non-bailable." },
+        { 
+            "Query": "What is the punishment for hacking under Indian law?",
+            "Response": "Under Section 66 of the IT Act, hacking is punishable with imprisonment of up to three years or a fine of up to Rs. 5 lakh, or both."
+        },
+            {
+              "Query": "How to file a complaint for a cyber crime?",
+              "Response": "You can file a complaint online through the National Cyber Crime Reporting Portal (https://cybercrime.gov.in/).\nSteps: 1. Visit the portal.\n 2. Click 'File a Complaint'.\n 3. Choose the category.\n 4. Log in using your mobile number. \n5. Provide incident details and upload evidence. \n6. Submit the complaint and note the complaint ID.\n"
+            },
+            {
+              "Query": "Where is the nearest cyber cell?",
+              "Response": "To find the nearest cyber crime police station, visit https://cybercrime.gov.in/Webform/Crime_NodalGrivanceList.aspx and search by state or city."
+            },
+            {
+              "Query": "file a cyber crime complaint at a police station?",
+              "Response": "You can file an FIR at the nearest police station under the IT Act 2000 if there is no cyber cell in your area. If refused, approach the Superintendent of Police (SP) or file an online FIR."
+            },
+            {
+              "Query": "documents needed to file a cyber crime?",
+              "Response": "Required documents: 1. Written Complaint 2. Identity Proof (Aadhar, Passport) 3. Evidence (Screenshots, Emails, Bank Statements, Chat Records)."
+            },
+            {
+              "Query": "cyber crime helpline number",
+              "Response": "You can call the Cyber Crime Helpline at 1930 for immediate assistance, especially for financial fraud cases like UPI fraud or OTP scams."
+            },
+            {
+              "Query": "to report an online financial fraud",
+              "Response": "Follow the steps: \n1. Call the Cyber Crime Helpline 1930 immediately. \n2. Report to your bank and request account freezing. \n3. File a complaint at https://cybercrime.gov.in/. \n4. Report to the RBI Ombudsman if needed."
+            },
+            {
+                "Query": "if someone commits financial fraud using my bank account then what legal action can be taken?",
+                "Response": "You can report it under Section 66D of the IT Act 2000 (cheating by impersonation) which carry punishments of up to 3 years of imprisonment."
+                
+            },
+            {
+                 "Query": "if my G-Pay account is hacked and money is stolen where I neeed to report?",
+                "Response": "Immediately report it to Google Pay support, your bank, and the Cyber Crime Cell. Legally, this falls under Section 66C (identity theft) and Section 66D (fraudulent impersonation) of the IT Act 2000"
+            },
+            {
+                "Query": "if my G-Pay account is hacked and money is stolen where I neeed to report?",
+                "Response": "If reported within 24-48 hours, banks may reverse the transaction. RBI guidelines mandate banks to investigate fraud claims under the Online Banking and Digital Payment Guidelines."
+       },
+           {
+            "Query": "Is G-Pay responsible for fraud transactions on my account?",
+           "Response": "Google Pay is not liable for fraud if the transaction was authorized using your credentials. However, if unauthorized access occurred, it should be reported under Section 43 & 66 of the IT Act 2000."
+       },
+    {
+        "Query": "How can I report a financial fraud involving my bank account?",
+        "Response":"File a complaint on www.cybercrime.gov.in, inform your bank, and visit the nearest Cyber Crime Cell or Police Station under Section 66D of the IT Act 2000 and Section 420 IPC."
+    },
+    {
+        "Query":"is online trafficking is punishable under IT Act2000" ,
+        "Response":"Online human trafficking is a serious crime under Section 67 & 67A of the IT Act 2000 – Punishes online transmission of obscene content, often linked to trafficking cases."
+    },
+     {
+        "Query":"whether online gambling is legal in india" ,
+        "Response":"Online gambling is largely illegal in India, except in certain states. Under Section 67 of the IT Act 2000 publishing or promoting online gambling, punishable with up to 3 years of imprisonment and a fine."
+    }, 
+    {
+        "Query":"Can cryptocurrency fraud be reported" ,
+        "Response":"under Section 66D of the IT Act 2000 – Punishes impersonation and fraud using digital means, with up to 3 years of imprisonment and a fine, cryptocurrency can be reported"
+    }, 
+    {
+        "Query":"What should I do if I am being cyberstalked?",
+        "Response":"case a file under Section 67 of the IT Act 2000 – If the stalker is sending obscene content, this section applies with up to 5 years of imprisonment."
+    }, 
+    {
+        "Query":"how sexting can be punished ?" ,
+        "Response":"If someone shares private images or videos without consent, they can be punished with up to 3 years of imprisonment and a fine of ₹2 lakh. If the content is sexually explicit (nudity or sexual acts), the punishment increases to up to 5 years of imprisonment and a ₹10 lakh fine for first-time offenders."
+    }, 
+    {
+        "Query": "actions taken against robbing money from bank account using online technology",
+        "Response":"Legal Provisions Under Section 43 – Imposes penalties for unauthorized access.Section 66 – Covers hacking and imposes punishment (up to 3 years imprisonment or a fine of up to ₹5 lakh)."
+    }, 
+    {
+        "Query":"If you have received financial debit/credit card fraud transaction related SMS" ,
+        "Response":"Do Not Share OTP or Personal Details, Block Your Card Immediately and report to your bank.it can be punished under Section 66D – Impersonation for fraud (up to 3 years and ₹1 lakh fine)."
+    },
+     {
+        "Query":"legal provisions against cyber blackmailing" ,
+        "Response":"IT Act 2000 Section 66E – Punishes violation of privacy (capturing, publishing private images without consent) with imprisonment up to 3 years or a fine of ₹2 lakh."
+    }, 
+    {
+        "Query":"punishment for email hacking" ,
+        "Response":"If someone accesses your email without permission, they must pay compensation (fine up to ₹5 lakh)."
+    },
+        {
+            "Query": "punishment for email hacking",
+            "Response": "If someone accesses your email without permission, they must pay compensation (fine up to ₹5 lakh). Under IT Act Section 66, hacking is punishable by up to 3 years imprisonment and/or a fine up to ₹5 lakh."
+        },
+        {
+            "Query": "What is the punishment for cyberstalking?",
+            "Response": "Under IPC Section 354D, cyberstalking is punishable by up to 3 years imprisonment for the first offense and up to 5 years for repeat offenses."
+        },
+        {
+            "Query": "What should I do if I am a victim of online financial fraud?",
+            "Response": "Immediately report to your bank to freeze transactions, call the cybercrime helpline 1930 within 24 hours, and file a complaint at cybercrime.gov.in."
+        },
+        {
+            "Query": "What is the legal punishment for online job fraud?",
+            "Response": "Under IT Act Section 66D, impersonation in job fraud cases leads to up to 3 years imprisonment and ₹1 lakh fine."
+        },
+        {
+            "Query": "How can I report cyberbullying?",
+            "Response": "You can report cyberbullying at cybercrime.gov.in, file an FIR at the Cyber Crime Police Station, or call the cyber helpline 1930."
+        },
+        {
+            "Query": "What should I do if I receive a fraud transaction SMS?",
+            "Response": "Do not share OTP or personal details, block your card immediately via the bank’s customer care or mobile app, and report unauthorized transactions to your bank and cybercrime.gov.in."
+        },
+        {
+            "Query": "What is the punishment for online child sexual exploitation?",
+            "Response": "Under IT Act Section 67B, publishing or sharing child sexual content is punishable by up to 5 years imprisonment for the first offense, 7 years for repeat offenses, and a ₹10 lakh fine. Under the POCSO Act, strict legal action applies."
+        },
+        {
+            "Query": "How can I protect myself from gaming fraud?",
+            "Response": "Avoid sharing personal/payment details in games, purchase in-game items only from official stores, and enable two-factor authentication (2FA) on gaming accounts."
+        },
+        {
+                "Query": "shares my private pictures without my permission?",
+                "Response": "You can file a complaint under Section 66E (violation of privacy) and Section 67A (transmission of sexually explicit content) of the IT Act 2000. You can report the case on the cybercrime portal (www.cybercrime.gov.in) or at your nearest cybercrime cell."
+            },
+            {
+                "Query": "What is the punishment for leaking private chats or intimate photos online?",
+                "Response": "Under Section 67A of the IT Act 2000, the offender can face imprisonment of up to 5 years and a fine of up to ₹10 lakh. If it involves defamation, Sections 499 and 500 of the IPC also apply."
+            },
+            {
+                "Query": "Is it a crime if my ex-partner shares our private photos online?",
+                "Response": "This falls under Section 66E (violation of privacy) and Section 67A (publishing explicit content) of the IT Act 2000. The person responsible may face up to 5 years of imprisonment and a fine."
+            },
+            {
+                "Query": "Under which law can I report someone for blackmailing me with my private pictures?",
+                "Response": "Blackmailing with private pictures falls under Section 66E of the IT Act 2000. It can lead to imprisonment of up to 7 years."
+            },
+            {
+                "Query": "Can I take legal action if someone threatens to leak my intimate pictures?",
+                "Response": "You can file a complaint under Section 66E and Section 67A of the IT Act 2000. The offender may face imprisonment and a heavy fine."
+            },
+            {
+                "Query": "How can I report cyberbullying in India?",
+                "Response": "You can report cyberbullying on the National Cyber Crime Reporting Portal (www.cybercrime.gov.in), at your local police station, or at a cybercrime cell. If the victim is a woman or minor, special legal protections apply."
+            },
+            {
+                "Query": "harassing me on social media?",
+                "Response": "You can file a complaint under Section 354D (cyberstalking). If obscene messages are involved, Section 67 of the IT Act 2000 applies."
+            },
+            {
+                "Query": "What is the punishment for cyberbullying in India?",
+                "Response": "Depending on the severity, cyberbullying can be punished under Section 66A (sending offensive messages online, if applicable), Section 67 (obscene content), and Section 354D (cyberstalking), leading to imprisonment of up to 3 years."
+            },
+            {
+                "Query": "What should I do if someone is spreading false rumors about me online?",
+                "Response": "You can file if the content is obscene or offensive under Section 67 of the IT Act 2000."
+            },
+            {
+                "Query": "How can I file a complaint against an online stalker?",
+                "Response": "You can report online stalking under Section 354D of the IPC, which punishes cyberstalking with imprisonment of up to 3 years for first-time offenders."
+            },
+            {
+                "Query": "What should I do if someone is constantly messaging me online despite my refusal?",
+                "Response": "Block the person and file a complaint under Section 354D of the IPC if the harassment continues. If threats are involved, Section 507 of the IPC also applies."
+            },
+            {
+                "Query": "What is the punishment for cyberstalking in India?",
+                "Response": "First-time offenders can be imprisoned for up to 3 years, and repeat offenders can face up to 5 years."
+            },
+            {
+                "Query": "Can I report someone for sending me anonymous threats?",
+                "Response": "Section 507 of the IPC punishes criminal intimidation through anonymous communication with imprisonment of up to 2 years."
+            },
+            {
+                "Query": "What legal action can I take if someone is threatening me online?",
+                "Response": "You can file a complaint under Section 67A of the IT Act 2000 if the threats involve explicit content."
+            }
+        
+        
+        
+]
+    
+      
+
+
+                    
+                    
+                
+                
+            
+    
+

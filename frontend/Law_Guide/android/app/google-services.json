@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440538011450",
+    "project_id": "lawguide-e886b",
+    "storage_bucket": "lawguide-e886b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440538011450:android:10bf12df9246f558262203",
+        "android_client_info": {
+          "package_name": "com.example.law_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSKauFVK6cCYlZixV8IxUO4yxmr1f_oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

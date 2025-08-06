@@ -1,0 +1,3 @@
+class Secrets {
+  static const String newsApiKey = 'a8abec64330647a9a2cd7ebf7c1b3e58';
+}

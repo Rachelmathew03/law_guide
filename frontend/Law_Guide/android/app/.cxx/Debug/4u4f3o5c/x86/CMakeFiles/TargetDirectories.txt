@@ -1,0 +1,2 @@
+C:/Users/rache/OneDrive/Desktop/sample 3/Law_Guide/android/app/.cxx/Debug/4u4f3o5c/x86/CMakeFiles/edit_cache.dir
+C:/Users/rache/OneDrive/Desktop/sample 3/Law_Guide/android/app/.cxx/Debug/4u4f3o5c/x86/CMakeFiles/rebuild_cache.dir
